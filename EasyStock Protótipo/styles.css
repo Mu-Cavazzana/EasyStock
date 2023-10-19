@@ -12,7 +12,6 @@ body {
     max-height: 213px;
 }
 
-	
 .infotela{
 	margin: 45px;
 	font-size: 32px;
@@ -32,8 +31,9 @@ body {
 .caixa1{
 	background-color: #EFDA20;
 	height: 95px;
+	margin-top: 20px;
 	
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
 	line-height: 95px;
 	font-size: 36px;
@@ -42,17 +42,83 @@ body {
 	
 }
 
-
-
 .caixa2{
 	background-color: #EFDA20;
 	height: 95px;
+	margin-top: 20px;
 	
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
 	line-height: 95px;
 	font-size: 36px;
 	
 	position: relative;
 	
+}
+
+.caixa3{
+	background-color: #EFDA20;
+	height: 95px;
+	margin-top: 20px;
+	
+	text-align: right;
+	vertical-align: middle;
+	line-height: 95px;
+	font-size: 36px;
+	
+	position: relative;
+	
+}
+
+.caixa4{
+	background-color: #EFDA20;
+	height: 95px;
+	margin-top: 20px;
+	
+	text-align: right;
+	vertical-align: middle;
+	line-height: 95px;
+	font-size: 36px;
+	
+	position: relative;
+	
+}
+
+.caixa5{
+	background-color: #EFDA20;
+	height: 95px;
+	margin-top: 20px;
+	
+	text-align: right;
+	vertical-align: middle;
+	line-height: 95px;
+	font-size: 36px;
+	
+	position: relative;
+	
+}
+
+.caixa6{
+	background-color: #EFDA20;
+	height: 95px;
+	margin-top: 20px;
+	margin-bottom: 126px;
+	
+	text-align: right;
+	vertical-align: middle;
+	line-height: 95px;
+	font-size: 36px;
+	
+	position: relative;
+	
+}
+
+.botoes{
+	margin: 0;
+	padding: 0;
+	float: top;
+	height: auto; 
+    width: auto;
+    max-height: 120px;
+	vertical-align: top;
 }

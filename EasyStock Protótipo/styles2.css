@@ -3,7 +3,7 @@ body {
     background-color: #1b1b1b;
     text-align: center;
 }
-	
+
 .logo{
 	padding: 20px;
 	background-color: #fff;
@@ -12,6 +12,7 @@ body {
     max-height: 213px;
 }
 
+	
 .infotela{
 	margin: 45px;
 	font-size: 32px;
@@ -21,23 +22,15 @@ body {
 	
 }
 
-.produto{
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-}
-
 .caixa1{
 	background-color: #EFDA20;
 	height: 95px;
 	margin-top: 20px;
 	
-	text-align: right;
+	text-align: middle;
 	vertical-align: middle;
 	line-height: 95px;
 	font-size: 36px;
-	max-width: 200px;
 	
 	position: relative;
 	
@@ -48,49 +41,7 @@ body {
 	height: 95px;
 	margin-top: 20px;
 	
-	text-align: right;
-	vertical-align: middle;
-	line-height: 95px;
-	font-size: 36px;
-	
-	position: relative;
-	
-}
-
-.caixa3{
-	background-color: #EFDA20;
-	height: 95px;
-	margin-top: 20px;
-	
-	text-align: right;
-	vertical-align: middle;
-	line-height: 95px;
-	font-size: 36px;
-	
-	position: relative;
-	
-}
-
-.caixa4{
-	background-color: #EFDA20;
-	height: 95px;
-	margin-top: 20px;
-	
-	text-align: right;
-	vertical-align: middle;
-	line-height: 95px;
-	font-size: 36px;
-	
-	position: relative;
-	
-}
-
-.caixa5{
-	background-color: #EFDA20;
-	height: 95px;
-	margin-top: 20px;
-	
-	text-align: right;
+	text-align: middle;
 	vertical-align: middle;
 	line-height: 95px;
 	font-size: 36px;
@@ -105,7 +56,7 @@ body {
 	margin-top: 20px;
 	margin-bottom: 126px;
 	
-	text-align: right;
+	text-align: middle;
 	vertical-align: middle;
 	line-height: 95px;
 	font-size: 36px;
